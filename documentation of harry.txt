@@ -1,0 +1,15 @@
+1- make a class of person that contains energy and health
+2-take an object and initialize energy 500 and health 100
+3-make a list that will contain the two spells of harry and voldmort
+4-according to the spells, i will decrease the energy of each one 
+5-the difference between the spells will be decrease in health from the bigger spell 
+6-in the first the health won't decrease 
+7- so i did exception for the first time 
+8- the other cases i put them in while loop that continue until one of their health be zero
+9- it will be exception for spell "shield"
+   it will be used 3 times only and it will protect the health dfrom the one he will use
+10-it will be exception for spell"imperio"
+   it will decrease the energy from both
+11- when the harry's health be zero that mean that voldmort is winner 
+12-when the voldmort's health be zero that mean that harry is winner
+
